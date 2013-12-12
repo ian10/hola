@@ -1,0 +1,19 @@
+name = Escorts
+description = Please provide a description for your theme.
+base theme = omega
+screenshot = screenshot.png
+engine = phptemplate
+core = 7.x
+
+; ========================================
+; Stylesheets
+; ========================================
+stylesheets[all][] = css/escorts.normalize.css
+stylesheets[all][] = css/escorts.hacks.css
+stylesheets[all][] = css/escorts.styles.css
+stylesheets[all][] = css/escorts.no-query.css
+
+; ========================================
+; Scripts
+; ========================================
+scripts[] = js/escorts.behaviors.js

@@ -120,4 +120,5 @@ More about developing:
  * Follow best practices:
    http://drupal.org/best-practices
  * Refer to the API documentation:
+ * Develop your own module: asdasdsadadasda
    http://api.drupal.org/api/drupal/7

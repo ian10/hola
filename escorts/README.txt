@@ -119,5 +119,5 @@ More about developing:
    http://drupal.org/developing/modules
  * Follow best practices:
    http://drupal.org/best-practices
- * Refer to the API documentation:
+  * ddddd:
    http://api.drupal.org/api/drupal/7
